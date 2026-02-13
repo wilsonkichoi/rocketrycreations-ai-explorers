@@ -77,18 +77,11 @@ Tell me about an orange tabby cat named Muffin who lives in a small bakery in Pa
 
 ### Step 3: Track Your Results
 
-| Level | What I Asked | Quality (1-5 stars) |
-|-------|--------------|---------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-
 **Discussion:** Which level gave the best result? What details made the biggest difference?
 
 ---
 
-## 🏺 Activity B: The Alien Archaeologist
+## 🏺 Activity B: Image Recognition
 
 Upload a photo of an everyday object and see how AI describes it. Then test if another AI can guess what it is!
 
@@ -106,13 +99,16 @@ Pick something from around you:
 **Tip:** Objects with interesting shapes work great!
 
 ### Step 2: Get AI's Description
+<img src="./add-file.png" alt="Add File" width="230"/>
+<img src="./upload-file.png" alt="Upload File" width="210"/>
+<img src="./prompt.png" alt="Prompt" width="200"/>
 
 1. Open **Google Gemini**
 2. Take a photo of your object (or use one from your device)
 3. Upload the photo and **copy/paste this prompt:**
 
 ```
-Look at this object carefully. Describe exactly what you see:
+Look at this object carefully. Briefly describe exactly what you see:
 - What shape is it?
 - What color(s)?
 - What material does it look like?
@@ -120,11 +116,14 @@ Look at this object carefully. Describe exactly what you see:
 - What do you think it's used for?
 ```
 
+#### example image (if you don't have one you want to use):
+<img src="./baby-yoda.jpeg" alt="Baby Yoda" width="300"/>
+
 4. Read AI's description - what did it notice that you didn't think about?
 
-### Step 3: The Guessing Game
+### Step 3: AI Guess from description
 
-1. **Copy** the description AI gave you
+1. **Copy** the description AI gave you from the previous step
 2. **Open a NEW Gemini conversation** (click "+ New chat")
 3. **Paste** the description and ask:
 
@@ -145,7 +144,43 @@ Can you find a picture of it online to show me?
 
 ---
 
-## 🤝 Activity C: Prompt Partners Challenge
+## 📐 Activity C: The Math Puzzle Helper
+
+Sometimes referencing an image can be tricky. Let's try to solve a math puzzle with AI!
+
+<img src="./math-puzzle.png" alt="Math Puzzle" width="400"/>
+
+### Step 1: Ask for a Hint
+
+Upload the image and copy/paste this prompt:
+
+```text
+Please help me to understand the math puzzle, don't reveal the answer until I request. I want you to give me meaningful hint and guide me through the problem.
+```
+
+### Step 2: Clarify the Input
+
+If the AI seems confused, it might not be seeing the image clearly. Add a description:
+
+```text
+Please help me to understand the math puzzle, don't reveal the answer until I request. I want you to give me meaningful hint and guide me through the problem.
+
+The circle and the shaded triangle just touch each other but didn't overlap.
+```
+
+**Why this matters:** Clear input helps the AI "see" better. Once it understands the geometry, it can unlock powerful knowledge like the **Two Tangent Theorem** and **Pythagorean Theorem** to help you.
+
+### Step 3: The Solution
+
+When you are ready, ask:
+
+```text
+Please reveal the answer, show me an updated image if possible.
+```
+
+---
+
+## 🤝 Activity D: Prompt Partners Challenge
 
 Work with a partner to see how different prompts get different results!
 

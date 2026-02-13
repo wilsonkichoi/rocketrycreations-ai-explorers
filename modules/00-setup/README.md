@@ -152,6 +152,9 @@ Before moving on, make sure you can:
 - [ ] Bookmark all three sites
 
 ---
+## Example of Gemini Pro 
+![Setup Diagram](./gemini-pro.png)
+---
 
 ## 🚀 Ready to Start!
 
