@@ -99,9 +99,6 @@ Pick something from around you:
 **Tip:** Objects with interesting shapes work great!
 
 ### Step 2: Get AI's Description
-<img src="./add-file.png" alt="Add File" width="230"/>
-<img src="./upload-file.png" alt="Upload File" width="210"/>
-<img src="./prompt.png" alt="Prompt" width="200"/>
 
 1. Open **Google Gemini**
 2. Take a photo of your object (or use one from your device)
@@ -118,6 +115,11 @@ Look at this object carefully. Briefly describe exactly what you see:
 
 #### example image (if you don't have one you want to use):
 <img src="./baby-yoda.jpeg" alt="Baby Yoda" width="300"/>
+
+#### example:
+<img src="./add-file.png" alt="Add File" width="600"/>
+<img src="./upload-file.png" alt="Upload File" width="600"/>
+<img src="./prompt.png" alt="Prompt" width="600"/>
 
 4. Read AI's description - what did it notice that you didn't think about?
 
