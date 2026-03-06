@@ -156,6 +156,22 @@ Create a unique twist to the narrative:
 - Which version do you like best? Why?
 - What surprised you about how AI interpreted your motion and story inputs?
 - Was it hard to keep the AI from hallucinating or losing track of characters between extensions?
+---
+
+## 🕵️ Activity C: Reverse-Engineering a Viral Short
+
+Now that you know how to build a video from scratch, let's look at a popular video and try to work backwards! By analyzing successful content, we can learn how to write better prompts.
+
+**The Challenge:**
+1. Watch this hilarious viral YouTube Short: [Black Poodle](https://youtube.com/shorts/2nZ59mEKiOQ?feature=share).
+2. **Analyze the Scene:**
+   - What are the main **characters**? (An orange tabby cat and a toy poodle).
+   - What is the **setting**? (An outdoor patio with a gray brick wall and a large stainless steel bowl).
+   - What is the **action**? (Lighting a firecracker and exaggeratedly jumping/hiding behind the bowl).
+3. **Write the Base Prompt:** Try to write the most descriptive prompt possible to generate a starting image that looks exactly like the outdoor patio with the cat, the poodle, and the firecracker.
+4. **Animate the Action:** Use Flow to animate the pets "reacting" to the firecracker. Try to get the AI to make them hide behind the metal bowl!
+
+*Hint: AI struggles with rapid, specific logical movements (like a cat lighting a tiny fuse with its paw). You might need to focus on the broad action and the funny reactions rather than perfect realism!*
 
 ---
 
@@ -221,6 +237,7 @@ By the end of this module, you should be able to:
 - [ ] Use Flow to combine base images with motion prompts
 - [ ] Iterate on AI outputs to improve scene transitions
 - [ ] Use descriptive vocabulary to guide AI camera angles and actions
+- [ ] Reverse-engineer existing videos to understand their prompt structure
 - [ ] Understand the limitations of narrative consistency with current generative models
 
 ---
