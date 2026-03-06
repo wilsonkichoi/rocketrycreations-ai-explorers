@@ -1,16 +1,16 @@
-# 🎨 Module 2: Digital Art & Animation (Style Transfer)
+# 🎬 Module 2: Digital Art & Video Generation (Visual Storytelling)
 
-Learn to "steal" the style of a famous artist and apply it to your own ideas using **Style Transfer**.
+Learn to use AI to generate images and stitch them together into a dynamic video narrative using **Google Flow**.
 
 ---
 
 ## 🎯 Learning Objectives
 
 By the end of this module, you will be able to:
-- [ ] Blend images using AI style transfer tools
-- [ ] Iterate on your creations to improve results
-- [ ] Create a simple AI animation from a still image
-- [ ] Use descriptive vocabulary to guide AI visual output
+- [ ] Write detailed, descriptive prompts to generate specific images
+- [ ] Use Google Flow to create animated videos from still images
+- [ ] Extend AI-generated video clips to build a continuous narrative
+- [ ] Understand the difference between generating individual assets and crafting a cohesive story
 
 ---
 
@@ -18,31 +18,29 @@ By the end of this module, you will be able to:
 
 | Career | How They Use This Skill |
 |--------|------------------------|
-| **Graphic Designer** | Creating concept art and mood boards quickly |
-| **Game Artist** | Generating consistent visual styles for characters |
-| **Marketing Professional** | Producing eye-catching social media visuals |
-| **Film/Video Producer** | Creating storyboards and visual effects previews |
+| **Video Editor / Producer** | Storyboarding and creating pre-visualization animatics |
+| **Marketing Professional** | Producing rapid promotional video content for social media |
+| **Concept Artist** | Bringing static concept art to life quickly |
+| **Content Creator** | Generating engaging visual b-roll and backgrounds |
 
-*Visual AI tools are transforming creative industries - learning to direct them is a valuable skill.*
+> **⚠️ Note on "AI Slop" and Traditional Tools:** 
+> While the video we create in this module showcases the incredible technical power of AI to generate motion from text, the resulting narrative might feel a bit chaotic or disjointed—sometimes referred to colloquially as "AI slop." The AI is excellent at generating visuals, but it lacks an inherent understanding of traditional storytelling, pacing, or physical logic. It's up to *you* as the director to try to guide it! 
+> 
+> *Historically, creating these kinds of dynamic, realistic animations required years of training and complex software like **Adobe After Effects, Autodesk Maya, Premiere Pro, or Blender**. Now, AI allows us to prototype these ideas rapidly using just natural language compared to the technical prowess needed in the past.*
 
 ---
 
 ## 🔑 Key Concepts
 
-### What is Style Transfer?
+### What is Visual Storytelling with AI?
 
-Style transfer is when AI takes the **content** of one image and applies the **style** of another.
+Instead of relying on a single static image, we are using AI to generate multiple keyframes and blending them into a moving sequence.
 
-| Component | Example |
-|-----------|---------|
-| **Content** | Your pet photo, a landscape, a selfie |
-| **Style** | Van Gogh's brushstrokes, pixel art, watercolor |
-| **Result** | Your pet painted like "Starry Night" |
-
-### Static vs. Motion Generation
-
-- **Static Generation:** Creates a single, still image
-- **Motion Generation:** Creates movement, animation, or video from images
+| Component | Description |
+|-----------|-------------|
+| **Base Images** | The starting point for your video. Establishing shots and key characters. |
+| **Motion Prompts** | Text descriptions telling the AI exactly *how* things should move. |
+| **Extension** | Adding new scenes onto the end of an existing video clip to build a longer story. |
 
 ---
 
@@ -50,239 +48,151 @@ Style transfer is when AI takes the **content** of one image and applies the **s
 
 | Tool | What It Does | Access |
 |------|--------------|--------|
-| **Google Whisk** | Blends subject + scene + style into new images | [labs.google.com](https://labs.google.com) |
-| **Google Flow** | Creates short animated videos from images/prompts | [labs.google.com](https://labs.google.com) |
+| **Google Flow** | Creates short animated videos from images and text prompts | [labs.google.com](https://labs.google.com) |
 | **Google Gemini** | Generate images and get creative ideas | [gemini.google.com](https://gemini.google.com) |
 
-> **⚠️ Note:** Whisk and Flow require a **regular Google account** (not a child/supervised account).
+> **⚠️ Note:** Google Flow requires a **regular Google account** (not a child/supervised account). For this workshop, we've set up a specific Flow project using the Nano Banana Pro engine to create images and videos.
 
 ---
 
 ## 📷 Before You Start
 
-Prepare your materials:
-- **1 Subject Image:** A photo of yourself, a pet, a toy, or any object
-- **1 Style Reference (optional):** Save an image of an art style you like
-
-**Privacy Note:** You can use any image - it doesn't have to be personal. Stock photos, drawings, or AI-generated images all work!
+Prepare your materials. You can follow the manual steps outlined in the activities below to recreate the project yourself.
 
 ---
 
-## 🎨 Activity A: The Style Thief (Google Whisk)
+## 🎬 Activity A: Visual Storytelling with Flow
 
-### Understanding Whisk's Three Inputs
+In this activity, we will create a wild, surreal story about a cat and a gorilla at the zoo by stitching together a video narrative!
 
-Whisk uses three image inputs to create something new:
+### Step 1: Generating the Base Images
 
-| Input | What It Controls | Example |
-|-------|------------------|---------|
-| **Subject** | WHO or WHAT is in the image | Your pet, a person, an object |
-| **Scene** | WHERE the subject is placed | A forest, a city, outer space |
-| **Style** | HOW it looks artistically | Anime, oil painting, neon |
+First, we need to generate our core assets. In Google Flow (or another image generator like Gemini), try using these detailed prompts to generate the static images we will use as keyframes.
 
-### Step 1: Open Whisk
+1. "A documentary-style, hyper-realistic photo taken inside a spacious, rocky zoo enclosure on a bright, slightly overcast day. The setting features simulated rock formations, thick green foliage in the background, and scattered dry grasses on the ground. A massive, adult silverback gorilla, with coarse grey and black fur, sits atop a large, flat rock in the middle-right, looking down with a curious, puzzled expression. In the foreground-left, sitting vulnerably in the grass and looking very small, is a domestic orange tabby cat, its eyes wide with alarm. Dust motes float in the air. The photo is taken at ground level with a shallow depth of field, rendering the zoo viewing glass and blurred human spectators in the far background. The lighting is natural but dramatic."  
+![alt text](1-gorilla-and-cat.png)
 
-1. Go to [labs.google.com](https://labs.google.com)
-2. Find and open **Whisk**
-3. Sign in with your Google account
+2. "A close-up photograph of an orange tabby cat's front paws gripping the rusted metal edge of an elevated zoo observation deck. Looking straight down past the cat's paws, a vast, rocky gorilla enclosure is visible far below, bathed in bright daylight. A massive silverback gorilla sits on a central rock in the distance."  
+![alt text](2-cat-at-edge.png)
 
-### Step 2: Add Your Inputs
+3. "A medium shot of diverse human spectators standing on an elevated zoo observation deck, looking over a rusted metal railing. They are looking down with calm, curious expressions. Bright daytime lighting. The background is clear blue sky and distant trees."  
+![alt text](3-spectators.png)
 
-**Add a Subject:**
-- Click the Subject area
-- Upload your prepared image OR use Whisk's suggestions
+4. "A high-angle telephoto shot from above. A massive silverback gorilla sits on a large flat rock in a zoo enclosure. It is looking directly up and over its shoulder with a squinting, surprised expression. Bright daylight highlights the gorilla's face against the blurred upper railing of an observation deck in the background."  
+![alt text](4-gorilla-lookup.png)
 
-**Add a Scene (copy & paste one):**
+5. "A dynamic, wide-angle ground-level photograph looking sharply up from a rocky zoo enclosure floor. An orange tabby cat is captured mid-air, dynamic and fully stretched, leaping downward. In the background, slightly blurred, a silverback gorilla looks up in shock. Bright daylight, dramatic shadows."  
+![alt text](5-cat-jump-into-gorilla.png)
 
-```
-magical forest with glowing mushrooms
-```
+6. "A hyper-realistic photo in a bright, rocky zoo enclosure. A massive silverback gorilla is standing upright, beating its chest aggressively. Facing it is a magnificent adult male African lion with a dark mane, lunging forward with claws extended, roaring violently. Dust kicks up around their feet in the bright daylight."  
+![alt text](6-gorilla-and-lion.png)
 
-```
-futuristic city at sunset
-```
+7. "A medium shot of diverse human spectators standing on an elevated zoo observation deck, looking over a rusted metal railing. Their faces show pure shock and terror, with gasps and pointing fingers. Bright daytime lighting. Below them is a blurred rocky gorilla enclosure."  
+![alt text](7-terrified-spectators.png)
 
-```
-cozy coffee shop interior
-```
+8. "A wide-angle cinematic photo inside a rocky zoo enclosure. Deep twilight shadows contrast with saturated theatrical stage lighting (purples, reds, golds) and heavy smoke. A silverback gorilla sits behind a massive chrome double-bass drum kit, wildly striking cymbals. A large male lion stands upright on its hind legs, shredding a cherry-sunburst Gibson Les Paul electric guitar. Surreal, hyper-realistic."  
+![alt text](8-lion-gorilla-rock-band.png)
 
-**Add a Style (copy & paste one):**
+9. "A medium shot of diverse human spectators standing on an elevated zoo observation deck, looking over a rusted metal railing. Their faces show pure shock and terror, with gasps and pointing fingers. Bright daytime lighting. Below them is a blurred rocky gorilla enclosure." *(Note: This visually mirrors image #7!)*  
+![alt text](9-people-in-rock-concert.png)
 
-**Studio Ghibli Style:**
-```
-Studio Ghibli anime style, soft colors, hand-drawn animation look, dreamy atmosphere, detailed backgrounds, Hayao Miyazaki inspired
-```
 
-**Van Gogh Style:**
-```
-Vincent van Gogh painting style, bold swirling brushstrokes, thick impasto texture, vibrant yellows and blues, expressive post-impressionist art like Starry Night
-```
+### Step 2: Creating the Initial Video Clip
 
-**Retro Pixel Art:**
-```
-Retro pixel art style, 16-bit video game graphics, limited color palette, nostalgic 1990s arcade game look
-```
+At the time of creating this video in Flow, you can choose up to **3 base images** to guide the initial generation. 
 
-**Watercolor:**
-```
-Soft watercolor painting style, delicate washes of color, visible paper texture, gentle color bleeding at the edges, artistic and dreamy feel
-```
+1. Select our setup images representing the tension at the zoo (`2-cat-at-edge.png`, `3-spectators.png`, and `5-cat-jump-into-gorilla.png`).
+2. Enter the following multi-scene prompt to direct the motion:
 
-**Comic Book:**
-```
-Bold comic book style, strong black outlines, flat bright colors, action-style shading, dramatic lighting like Marvel or DC comics
-```
+> "Cinematic close-up video. An orange tabby cat is perched on the rusted metal railing of an elevated zoo observation deck. The camera slowly pushes in on the cat's face as it intensely stares down into the blurred rocky enclosure below. Bright natural daylight, highly detailed.
+> Medium shot video. A diverse group of human spectators stand at a zoo observation deck railing on a sunny day. They are casually looking down, pointing, and smiling gently. The camera slowly pans across their faces.
+> Action camera video from a low angle. An orange tabby cat suddenly leaps off the high metal railing of the observation deck, diving straight down toward the camera. The cat is mid-air, fully stretched out against the bright sky."
 
-### Step 3: Generate and Record
+![alt text](video-prompt.png) 
+<video controls src="video-1-cat-leap-off.mp4" title="Title"></video>
 
-Click Generate and record your result:
 
-| My Inputs | Description |
-|-----------|-------------|
-| Subject | |
-| Scene | |
-| Style | |
-| **Result Rating (1-5)** | |
-| **What I'd change** | |
+### Step 3: Extending the Narrative (Part 1)
 
----
+Now that we have our core starting clip, we use Flow's **">> Extend"** option to add more runtime to our video based on our continuation of the story.
 
-## 🏆 Activity A.5: Style Battle Challenge
+Use this prompt to extend the video:
 
-**Collaborative Activity:**
+> "Telephoto video shot. A massive silverback gorilla sitting on a rock abruptly flinches backward, tilting its head sharply upward to look at the sky with wide-eyed surprise. Dust gently swirls around its feet in the bright daylight.
+> Cinematic video at ground level. The orange cat lands on the rocky ground in front of the gorilla. Upon impact, there is an immediate, blinding burst of golden magical light and thick smoke. As the smoke rapidly clears within a second, a massive male lion with a dark mane stands in the cat's place, letting out a furious roar.
+> Fast-paced medium video shot. The human spectators on the observation deck suddenly recoil in absolute terror. They gasp, point downwards with shaking hands, and cover their mouths in pure shock. Bright daylight."
 
-1. Pair up with a classmate
-2. Choose a **target style** from the table below
-3. Both partners try to create an image matching that style
-4. Compare results - vote on whose is closer to the target
-5. Discuss: What settings helped achieve the style?
+<video controls src="video-2-cat-leap-off-loin-gorilla-fight.mp4" title="Title"></video>
 
-| Target Style | Key Words to Look For |
-|--------------|----------------------|
-| Studio Ghibli | Soft colors, dreamy, hand-drawn anime |
-| Van Gogh | Swirling brushstrokes, bold colors, thick texture |
-| Pixel Art | Blocky, retro, limited colors |
-| Watercolor | Soft, flowing, paper texture |
+
+### Step 4: The Grand Finale (Extending Part 2)
+
+Let's extend the video one more time to give our story a surreal, unexpected, logic-defying ending!
+
+Use this prompt to finish the sequence:
+
+> "Intense action video, handheld camera style. The silverback gorilla and the massive male lion charge at each other in the rocky daytime enclosure. They collide, grappling and roaring aggressively, kicking up a massive cloud of dirt and dust.
+> A rapid, stylized transition video. As the lion and gorilla grapple in the dust, the bright daytime lighting suddenly drops to deep twilight. Instantly, flashing theatrical rock concert spotlights (deep purples, reds, golds) burst on from the surrounding rocks, cutting through the thick dust which now looks like concert stage smoke.
+> Surreal cinematic video. In a rocky enclosure lit by flashing purple and red stage lights and heavy smoke, a large male lion is standing upright on its hind legs, enthusiastically shredding a cherry-sunburst electric guitar. Next to him, a massive silverback gorilla is wildly smashing a full drum kit with drumsticks. They are headbanging to the music.
+> Slow-motion cinematic video. The human spectators on the observation deck are now bathed in flashing red and purple concert lights and atmospheric haze. Their terror has vanished; instead, they are grinning wildly, throwing their hands in the air, and aggressively headbanging to the heavy rock music."
+
+<video controls src="video-3-cat-leap-off-loin-gorilla-fight-concert.mp4" title="Title"></video>
 
 ---
 
-## 🔄 Activity B: The Iteration Challenge
+## 🔄 Activity B: The Narrative Remix Challenge
 
-The key to AI art isn't getting it right the first time - it's **iteration**.
+The key to AI video generation isn't getting it right the first time—it's **iteration** and exploring alternatives. The story above is just one path! 
 
-### The 3-Version Challenge
+What if the cat *didn't* turn into a lion? What if it turned into a giant golden eagle? What if the spectators jumped down to help? What if they all played jazz instead of a heavy rock concert? 
 
-Create THREE versions of the same concept, changing ONE element each time:
+**The Challenge:**
+Create a unique twist to the narrative:
 
-**Version 1: Original**
-- Keep your first result as a baseline
-
-**Version 2: Style Swap**
-- Same subject and scene
-- Different style (e.g., change from "anime" to "oil painting")
-- Compare: How did the mood change?
-
-**Version 3: Scene Shift**
-- Same subject and style
-- Different scene (e.g., change from "forest" to "underwater")
-- Compare: How did the story change?
+1. **Version 1:** Start with the exact same three base images we did in Activity A Step 2. Generate a new initial video.
+2. **Version 2:** Radically change the **Step 3 and Step 4** extension prompts. 
+3. Take the story in an absolutely different direction! Compare how the mood and the "slop" factor changed.
 
 ### Reflection Questions
 
 - Which version do you like best? Why?
-- What surprised you about how AI interpreted your inputs?
-- What would you try next?
-
----
-
-## 🎬 Activity C: Bring It to Life (Google Flow)
-
-Now let's add motion to your images!
-
-### Step 1: Open Google Flow
-
-1. Navigate to Flow in [Google Labs](https://labs.google.com)
-2. If Flow isn't available, you can use Gemini with video prompts
-
-### Step 2: Choose Your Starting Point
-
-**Option A: Animate Your Whisk Creation**
-1. Download your favorite Whisk image
-2. Upload it to Flow
-3. Add a motion prompt from the examples below
-
-**Option B: Start Fresh in Flow**
-1. Type a scene description with motion
-2. Generate the animation
-
-### Step 3: Animation Prompts (Copy & Paste)
-
-**Walking Cat Under Starry Night:**
-```
-A cute orange cat walking slowly across a field at night, Van Gogh Starry Night style with swirling blue sky and glowing yellow stars, the cat moves from left to right, gentle wind blowing through the grass
-```
-
-**Studio Ghibli Forest Scene:**
-```
-A magical forest with glowing fireflies floating upward, Studio Ghibli anime style, soft camera pan through the trees, gentle breeze making leaves sway, dreamy atmosphere
-```
-
-**Pixel Art Adventure:**
-```
-A pixel art knight character walking through a castle hallway, retro 16-bit video game style, torches flickering on the walls, character walks forward toward the camera
-```
-
-**Underwater Scene:**
-```
-Colorful tropical fish swimming in a coral reef, watercolor painting style, fish slowly drifting left to right, sunbeams filtering through the water, bubbles rising up
-```
-
-### Motion Keywords Reference
-
-| Add This | What Happens |
-|----------|--------------|
-| "walking left to right" | Character moves across screen |
-| "slow zoom in" | Camera gets closer |
-| "pan left to right" | Camera slides sideways |
-| "gentle breeze" | Subtle movement in hair/leaves/grass |
-| "floating upward" | Objects drift up (bubbles, fireflies) |
-| "flickering" | Light sources pulse |
-| "loop seamlessly" | Animation repeats smoothly |
+- What surprised you about how AI interpreted your motion and story inputs?
+- Was it hard to keep the AI from hallucinating or losing track of characters between extensions?
 
 ---
 
 ## 🖼️ Gallery Walk (If in a group)
 
-1. Select your best creation (Whisk image or Flow animation)
-2. Display on your screen
-3. Walk around and view 3-4 classmates' work
-4. For each piece, note:
-   - One thing you like about it
-   - One question you have (how did they achieve that effect?)
+1. Wait for everyone to finish their remixed videos.
+2. Select your craziest, most surreal narrative video.
+3. Display it on your screen.
+4. Walk around and view 3-4 classmates' work.
+5. For each piece, note:
+   - One thing you like about their creative direction
+   - A question you have (e.g., how did they achieve that transition effect?)
 
 ---
 
 ## 📝 Reflection Journal
 
 ```
-MODULE 2: THE REMIX ERA
+MODULE 2: THE VIDEO NARRATIVE ERA
 
 TOOLS I USED TODAY:
-[ ] Google Whisk
 [ ] Google Flow
 [ ] Google Gemini
 [ ] Other: _______________
 
 MY BEST CREATION:
-Subject: _______________________
-Style: _________________________
+Core Character: _______________________
+Action/Plot Twist: _________________________
 What I like about it: ___________
 
 ITERATION DISCOVERY:
-The biggest change happened when I adjusted: _______________
-I learned that AI responds well to: _______________________
+The biggest change happened when I adjusted my prompt to say: _______________
+I learned that the AI responds well to: _______________________
 
-STYLE VOCABULARY I LEARNED:
+STORYTELLING VOCABULARY I LEARNED:
 1. _______________
 2. _______________
 3. _______________
@@ -297,12 +207,11 @@ _____________________________________________
 
 | Term | Definition |
 |------|------------|
-| **Style Transfer** | Applying the artistic style of one image to the content of another |
-| **Iteration** | Making repeated attempts, adjusting each time based on results |
-| **Subject** | The main focus/object in an image |
-| **Scene** | The background or environment in an image |
-| **Motion Prompt** | Instructions that describe how elements should move in an animation |
-| **Aesthetic** | The overall visual style or "look and feel" of an image |
+| **AI Slop** | Artistically chaotic or narratively disjointed content generated rapidly by AI. |
+| **Iteration** | Making repeated attempts, adjusting prompts and styles each time based on results. |
+| **Subject / Base Image** | The main focus or initial visual keyframe in an establishing shot. |
+| **Motion Prompt** | Instructions that describe exactly how elements should move in an animation. |
+| **Extension** | Further generating consecutive scenes off the tail end of an existing AI video clip. |
 
 ---
 
@@ -310,49 +219,37 @@ _____________________________________________
 
 By the end of this module, you should be able to:
 
-- [ ] Explain what style transfer means
-- [ ] Use Whisk to combine subject, scene, and style
-- [ ] Iterate on AI outputs to improve results
-- [ ] Use descriptive vocabulary to guide AI aesthetics
-- [ ] Understand the difference between static and motion generation
-- [ ] Create or describe an animation from a still image
+- [ ] Explain how AI video narrative extensions work
+- [ ] Use Flow to combine base images with motion prompts
+- [ ] Iterate on AI outputs to improve scene transitions
+- [ ] Use descriptive vocabulary to guide AI camera angles and actions
+- [ ] Understand the limitations of narrative consistency with current generative models
 
 ---
 
 ## 🚀 Extension Activities
 
-### Style Mashup Challenge
-Combine two unlikely styles:
-- "Renaissance painting meets neon cyberpunk"
-- "Japanese woodblock print meets comic book"
-- "Watercolor meets pixel art"
+### Action Movie Sequence Challenge
+Combine totally unrelated chaotic ideas into an action sequence:
+- "A high speed car chase transitioning into an underwater submarine battle."
+- "A quiet library dramatically erupting into a zero-gravity laser tag arena."
 
-### Album Cover Creator
-Design an album cover for an imaginary band:
-1. Choose a band name and music genre
-2. Create a subject that represents the music
-3. Choose a style that matches the genre's mood
-4. Iterate until you have a professional-looking cover
-
-### Before & After Series
-Create a set of images showing transformation:
-1. Same subject
-2. Same scene
-3. Three very different styles
-4. Present as a "style evolution" series
+### Music Video Creator
+Using a song you love as inspiration, create an AI visualizer:
+1. Choose a song and identify its core tempo/mood.
+2. Generate base images that represent the music's vibe.
+3. Iteratively extend a Flow video that builds visually to match the drop or chorus of the song!
 
 ---
 
 ## 🏠 Take-Home Challenge
 
-**Create Your Style Library:**
+**Create Your Digital Storyboard:**
 
-1. Find 5 images online that represent styles you love
-2. For each image, write 3-5 descriptive words
-3. Save them in a folder called "My Style References"
-4. Next module, we'll use these for coding projects!
-
-**Bonus:** Create a "style transfer story" - three images of the same subject in three styles that tell a mini-narrative (morning → afternoon → night OR happy → sad → excited)
+1. Come up with a 3-scene story you want to create (Beginning, Middle Twist, and End).
+2. Write 2-3 sentences max for the motion prompts of each scene.
+3. Generate the 3 *Base Images* using Google Gemini or another image generator that best establish the setting and mood.
+4. Bring these to the next module so we can use them as assets for our next coding projects!
 
 ---
 
