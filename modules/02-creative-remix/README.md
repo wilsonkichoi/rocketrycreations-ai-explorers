@@ -109,8 +109,8 @@ At the time of creating this video in Flow, you can choose up to **3 base images
 > Action camera video from a low angle. An orange tabby cat suddenly leaps off the high metal railing of the observation deck, diving straight down toward the camera. The cat is mid-air, fully stretched out against the bright sky."
 
 ![alt text](video-prompt.png) 
-<video controls src="video-1-cat-leap-off.mp4" title="Title"></video>
 
+[![Cat leaps off](https://img.youtube.com/vi/YXigSs8oPvI/0.jpg)](https://www.youtube.com/watch?v=YXigSs8oPvI)
 
 ### Step 3: Extending the Narrative (Part 1)
 
@@ -121,9 +121,7 @@ Use this prompt to extend the video:
 > "Telephoto video shot. A massive silverback gorilla sitting on a rock abruptly flinches backward, tilting its head sharply upward to look at the sky with wide-eyed surprise. Dust gently swirls around its feet in the bright daylight.
 > Cinematic video at ground level. The orange cat lands on the rocky ground in front of the gorilla. Upon impact, there is an immediate, blinding burst of golden magical light and thick smoke. As the smoke rapidly clears within a second, a massive male lion with a dark mane stands in the cat's place, letting out a furious roar.
 > Fast-paced medium video shot. The human spectators on the observation deck suddenly recoil in absolute terror. They gasp, point downwards with shaking hands, and cover their mouths in pure shock. Bright daylight."
-
-<video controls src="video-2-cat-leap-off-loin-gorilla-fight.mp4" title="Title"></video>
-
+[![Cat turns into lion](https://img.youtube.com/vi/7HCatchJQso/0.jpg)](https://www.youtube.com/watch?v=7HCatchJQso)
 
 ### Step 4: The Grand Finale (Extending Part 2)
 
@@ -135,9 +133,7 @@ Use this prompt to finish the sequence:
 > A rapid, stylized transition video. As the lion and gorilla grapple in the dust, the bright daytime lighting suddenly drops to deep twilight. Instantly, flashing theatrical rock concert spotlights (deep purples, reds, golds) burst on from the surrounding rocks, cutting through the thick dust which now looks like concert stage smoke.
 > Surreal cinematic video. In a rocky enclosure lit by flashing purple and red stage lights and heavy smoke, a large male lion is standing upright on its hind legs, enthusiastically shredding a cherry-sunburst electric guitar. Next to him, a massive silverback gorilla is wildly smashing a full drum kit with drumsticks. They are headbanging to the music.
 > Slow-motion cinematic video. The human spectators on the observation deck are now bathed in flashing red and purple concert lights and atmospheric haze. Their terror has vanished; instead, they are grinning wildly, throwing their hands in the air, and aggressively headbanging to the heavy rock music."
-
-<video controls src="video-3-cat-leap-off-loin-gorilla-fight-concert.mp4" title="Title"></video>
-
+[![Lion and Gorilla Concert](https://img.youtube.com/vi/NLTjkDGdHcE/0.jpg)](https://www.youtube.com/watch?v=NLTjkDGdHcE)
 ---
 
 ## 🔄 Activity B: The Narrative Remix Challenge
