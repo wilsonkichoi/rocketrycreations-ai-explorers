@@ -163,13 +163,16 @@ Create a unique twist to the narrative:
 Now that you know how to build a video from scratch, let's look at a popular video and try to work backwards! By analyzing successful content, we can learn how to write better prompts.
 
 **The Challenge:**
-1. Watch this hilarious viral YouTube Short: [Black Poodle](https://youtube.com/shorts/2nZ59mEKiOQ?feature=share).
+1. Watch this hilarious viral YouTube Short: 
+
+<a href="https://www.youtube.com/watch?v=2nZ59mEKiOQ" target="_blank"><img src="https://img.youtube.com/vi/2nZ59mEKiOQ/0.jpg" alt="Black Poodle"></a>
+
 2. **Analyze the Scene:**
-   - What are the main **characters**? (An orange tabby cat and a toy poodle).
-   - What is the **setting**? (An outdoor patio with a gray brick wall and a large stainless steel bowl).
-   - What is the **action**? (Lighting a firecracker and exaggeratedly jumping/hiding behind the bowl).
-3. **Write the Base Prompt:** Try to write the most descriptive prompt possible to generate a starting image that looks exactly like the outdoor patio with the cat, the poodle, and the firecracker.
-4. **Animate the Action:** Use Flow to animate the pets "reacting" to the firecracker. Try to get the AI to make them hide behind the metal bowl!
+   - What are the main **characters**? (An orange tabby cat, a fuzzy black poodle, and another poodle watching in the background).
+   - What is the **setting**? (An outdoor patio with a gray brick wall, a bamboo-style shelf, and a large stainless steel bowl).
+   - What is the **action**? (The cat "lights" a firecracker, and then the cat and black poodle sit side-by-side with their mouths wide open as if laughing).
+3. **Write the Base Prompt:** Try to write the most descriptive prompt possible to generate a starting image that looks exactly like the outdoor patio with the cat, the poodles, and the firecracker.
+4. **Animate the Action:** Use Flow to animate the pets' vocal "laughing" reaction to the firecracker. Try to get the AI to make them sit side-by-side with open mouths!
 
 *Hint: AI struggles with rapid, specific logical movements (like a cat lighting a tiny fuse with its paw). You might need to focus on the broad action and the funny reactions rather than perfect realism!*
 
