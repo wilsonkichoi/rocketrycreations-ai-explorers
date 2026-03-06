@@ -110,7 +110,7 @@ At the time of creating this video in Flow, you can choose up to **3 base images
 
 ![alt text](video-prompt.png) 
 
-[![Cat leaps off](https://img.youtube.com/vi/YXigSs8oPvI/0.jpg)](https://www.youtube.com/watch?v=YXigSs8oPvI)
+<a href="https://www.youtube.com/watch?v=YXigSs8oPvI" target="_blank"><img src="https://img.youtube.com/vi/YXigSs8oPvI/0.jpg" alt="Cat leaps off"></a>
 
 ### Step 3: Extending the Narrative (Part 1)
 
@@ -119,9 +119,10 @@ Now that we have our core starting clip, we use Flow's **">> Extend"** option to
 Use this prompt to extend the video:
 
 > "Telephoto video shot. A massive silverback gorilla sitting on a rock abruptly flinches backward, tilting its head sharply upward to look at the sky with wide-eyed surprise. Dust gently swirls around its feet in the bright daylight.
-> Cinematic video at ground level. The orange cat lands on the rocky ground in front of the gorilla. Upon impact, there is an immediate, blinding burst of golden magical light and thick smoke. As the smoke rapidly clears within a second, a massive male lion with a dark mane stands in the cat's place, letting out a furious roar.
+> Cinematic video at ground level. The orange cat lands on the rocky ground in front of the gorilla. Upon impact, there is an immediat    e, blinding burst of golden magical light and thick smoke. As the smoke rapidly clears within a second, a massive male lion with a dark mane stands in the cat's place, letting out a furious roar.
 > Fast-paced medium video shot. The human spectators on the observation deck suddenly recoil in absolute terror. They gasp, point downwards with shaking hands, and cover their mouths in pure shock. Bright daylight."
-[![Cat turns into lion](https://img.youtube.com/vi/7HCatchJQso/0.jpg)](https://www.youtube.com/watch?v=7HCatchJQso)
+
+<a href="https://www.youtube.com/watch?v=7HCatchJQso" target="_blank"><img src="https://img.youtube.com/vi/7HCatchJQso/0.jpg" alt="Cat turns into lion"></a>
 
 ### Step 4: The Grand Finale (Extending Part 2)
 
@@ -133,7 +134,8 @@ Use this prompt to finish the sequence:
 > A rapid, stylized transition video. As the lion and gorilla grapple in the dust, the bright daytime lighting suddenly drops to deep twilight. Instantly, flashing theatrical rock concert spotlights (deep purples, reds, golds) burst on from the surrounding rocks, cutting through the thick dust which now looks like concert stage smoke.
 > Surreal cinematic video. In a rocky enclosure lit by flashing purple and red stage lights and heavy smoke, a large male lion is standing upright on its hind legs, enthusiastically shredding a cherry-sunburst electric guitar. Next to him, a massive silverback gorilla is wildly smashing a full drum kit with drumsticks. They are headbanging to the music.
 > Slow-motion cinematic video. The human spectators on the observation deck are now bathed in flashing red and purple concert lights and atmospheric haze. Their terror has vanished; instead, they are grinning wildly, throwing their hands in the air, and aggressively headbanging to the heavy rock music."
-[![Lion and Gorilla Concert](https://img.youtube.com/vi/NLTjkDGdHcE/0.jpg)](https://www.youtube.com/watch?v=NLTjkDGdHcE)
+
+<a href="https://www.youtube.com/watch?v=NLTjkDGdHcE" target="_blank"><img src="https://img.youtube.com/vi/NLTjkDGdHcE/0.jpg" alt="Lion and Gorilla Concert"></a>
 ---
 
 ## 🔄 Activity B: The Narrative Remix Challenge
