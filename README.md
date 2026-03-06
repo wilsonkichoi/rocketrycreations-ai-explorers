@@ -17,8 +17,8 @@ Click on a module to start your journey.
 |--------|-------|-------------------|--------|
 | [🚀 Step 0](modules/00-setup/README.md) | Getting Started | Set up your AI tools and workspace | Ready |
 | [🗣️ Module 1](modules/01-multimodality/README.md) | Mastering the Conversation | Write prompts that get results | Ready |
-| [🎨 Module 2](modules/02-creative-remix/README.md) | Digital Art & Animation | Create AI art and animations | 🚧 In Progress |
-| [🎮 Module 3](modules/03-vibe-coding/README.md) | Coding with Your Voice | Build games without coding | 🚧 In Progress |
+| [🎨 Module 2](modules/02-creative-remix/README.md) | Digital Art & Animation | Create AI art and animations | Ready |
+| [🎮 Module 3](modules/03-vibe-coding/README.md) | Coding with Your Voice | Build games without coding | Ready |
 | [🕵️ Module 4](modules/04-ethics-lab/README.md) | The AI Detective | Spot AI lies and fact-check | 🚧 In Progress |
 | [🔍 Module 5](modules/05-deep-research/README.md) | Deep Research | Use AI for comprehensive research | 🚧 In Progress |
 

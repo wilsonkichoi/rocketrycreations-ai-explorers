@@ -64,7 +64,11 @@ By the end of this module, you will be able to:
 ### Step 1: Open Google Gemini
 
 1. Go to **[gemini.google.com](https://gemini.google.com)**
-2. Start a new conversation
+2. Start a new conversation and choose "Canvas" in the "Tools" section
+<p align="center">
+  <img src="tools.png" width="800" alt="Gemini Tools">
+</p>
+
 
 ### Step 2: The Magic Prompt
 
@@ -81,8 +85,14 @@ Requirements:
 - Display a score counter
 - Game over when enemies reach the bottom
 
-Show me the game in Canvas so I can play it directly.
+Show me the complete code in a single HTML file that I can save and open in my browser.
 ```
+
+Here's an example of what that prompt looks like in Gemini:
+
+<p align="center">
+  <img src="canvas.png" width="800" alt="Gemini Magic Prompt Example">
+</p>
 
 ### Step 3: Play in Gemini Canvas
 
@@ -92,6 +102,12 @@ Show me the game in Canvas so I can play it directly.
 4. **Play your game:**
    - Use **Arrow Keys** to move left/right
    - Use **Spacebar** to shoot
+
+Here's what a successful game build looks like in Canvas:
+
+<p align="center">
+  <img src="game.png" width="800" alt="Space Invaders in Gemini Canvas">
+</p>
 
 ### Step 4: Test and Take Notes
 
@@ -165,49 +181,33 @@ Now the fun part - improving your game through conversation!
 
 ### The Iteration Challenge
 
-Try at least 3 of these improvements (copy & paste into the same conversation):
+Try adding some of these advanced features to your Space Invaders game (copy & paste into the same conversation):
 
-**Speed & Difficulty:**
+**Special Abilities:**
 ```
-Make the enemies move faster
-```
-
-```
-Add more rows of enemies
+Add a 'Homing' missile feature that I can use by pressing 'Z'.
 ```
 
 ```
-Make the enemies shoot back at the player
+Add a 'Nuke' ability that clears all enemies on screen. I should trigger it with the 'C' key. Make sure I only have a limited amount of nukes!
 ```
 
-**Visual Improvements:**
+**Control Polish:**
 ```
-Change the player ship to be green and the enemies to be red
-```
-
-```
-Add a starry background that slowly moves
+Please let me use WASD keys to move in addition to the arrow keys.
 ```
 
 ```
-Make explosions appear when enemies are destroyed
+Add touch controls so I can play this game on my phone!
 ```
 
 **Gameplay Features:**
 ```
-Add 3 lives for the player
+Give the player 3 lives. If enemies hit the bottom, I lose a life instead of instantly getting a Game Over.
 ```
 
 ```
-Add levels - when all enemies are destroyed, spawn a new harder wave
-```
-
-```
-Add a high score that saves between games
-```
-
-```
-Add power-ups that randomly fall from destroyed enemies
+Make the enemies move faster in the later levels.
 ```
 
 ### Iteration Tracker
