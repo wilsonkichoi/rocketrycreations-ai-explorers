@@ -48,7 +48,7 @@ Instead of relying on a single static image, we are using AI to generate multipl
 
 | Tool | What It Does | Access |
 |------|--------------|--------|
-| **Google Flow** | Creates short animated videos from images and text prompts | [labs.google.com](https://labs.google.com) |
+| **Google Flow** | Creates short animated videos from images and text prompts | [labs.google/fx/tools/flow](https://labs.google/fx/tools/flow) |
 | **Google Gemini** | Generate images and get creative ideas | [gemini.google.com](https://gemini.google.com) |
 
 > **⚠️ Note:** Google Flow requires a **regular Google account** (not a child/supervised account). For this workshop, we've set up a specific Flow project using the Nano Banana Pro engine to create images and videos.
