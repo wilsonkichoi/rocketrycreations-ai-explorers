@@ -1,4 +1,4 @@
-# AI Explorers: From Consumer to Creator
+# AI Explorers: From Consumer to Creator (4th Grade and Up)
 ## A Self-Paced Guide to Mastering AI Tools
 
 **Quick Link:** [tinyurl.com/rocket-ai](https://tinyurl.com/rocket-ai)
@@ -29,7 +29,7 @@ Click on a module to start your journey.
 | Tool | Purpose | Access |
 |------|---------|--------|
 | **Google Gemini** | Your central AI assistant | [gemini.google.com](https://gemini.google.com) |
-| **Google Labs** | Creative tools (Whisk, Flow) | [labs.google.com](https://labs.google.com) |
+| **Google Labs** | Creative tools (Flow) | [labs.google.com](https://labs.google.com) |
 | **NotebookLM** | Research and synthesis | [notebooklm.google.com](https://notebooklm.google.com) |
 
 > **Tip:** A free Google AI Pro trial is recommended for the best experience.

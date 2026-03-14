@@ -8,7 +8,7 @@ Before you begin your journey as an AI Explorer, let's get your tools ready!
 
 By the end of this setup, you will:
 - [ ] Have access to Google Gemini
-- [ ] Be able to use Google Labs (Whisk, Flow)
+- [ ] Be able to use Google Labs (Flow)
 - [ ] Know how to access NotebookLM
 - [ ] Understand privacy best practices
 
@@ -19,7 +19,7 @@ By the end of this setup, you will:
 | Tool | Purpose | URL |
 |------|---------|-----|
 | **Google Gemini** | Your central AI assistant | [gemini.google.com](https://gemini.google.com) |
-| **Google Labs** | Creative tools (Whisk, Flow) | [labs.google.com](https://labs.google.com) |
+| **Google Labs** | Creative tools (Flow) | [labs.google.com](https://labs.google.com) |
 | **NotebookLM** | Research and synthesis | [notebooklm.google.com](https://notebooklm.google.com) |
 
 ### Recommended: Google AI Pro (Free Trial Available!)
@@ -68,7 +68,6 @@ While the free version works, **Google AI Pro** provides the best experience:
 2. Go to **[labs.google.com](https://labs.google.com)**
 3. Sign in with your Google account
 4. Find these tools:
-   - **Whisk** - Image style transfer
    - **Flow** - Video/animation creation
 
 **Note:** If a tool shows "Join waitlist," click it and check back later.
@@ -107,7 +106,7 @@ Keep these tabs open:
 | Problem | Solution |
 |---------|----------|
 | "Access denied" message | Make sure you're signed into your Google account |
-| Can't find Whisk or Flow | Try refreshing or signing in again |
+| Can't find Flow | Try refreshing or signing in again |
 | NotebookLM not accessible | Make sure you're signed into your Google account |
 | Page won't load | Try refreshing or clearing browser cache |
 | Hit usage limits | Consider starting Google AI Pro free trial |
