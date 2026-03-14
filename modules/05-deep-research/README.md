@@ -86,6 +86,8 @@ Pick ONE destination that excites you:
    - Select "Deep Research" or "1.5 Pro with Deep Research"
    - If you don't see it, you may need Google AI Pro
 
+![Deep Research Tool](./deep-research-tool.png)
+
 ### Step 3: Use the Magic Prompt
 
 **Example: Tokyo Disneyland Trip** (copy & paste):
@@ -166,6 +168,8 @@ While Deep Research runs, notice:
 - Information is being synthesized
 - This takes longer than regular chat (1-3 minutes)
 
+![Deep Research Plan](./deep-research-plan.png)
+
 **Discussion while waiting:** Why do you think this takes longer than a regular AI response?
 
 ### ✓ Checkpoint
@@ -177,6 +181,8 @@ While Deep Research runs, notice:
 ---
 
 ## 📊 Activity B: Analyze Your Research Results
+
+![Deep Research Result](./deep-research-result.png)
 
 ### The Research Quality Checklist
 
@@ -205,6 +211,18 @@ Look at the bottom of your Deep Research results:
 | | | Yes / No / Partially |
 | | | Yes / No / Partially |
 | | | Yes / No / Partially |
+
+### Create a Webpage
+
+Gemini also offers the ability to turn your Deep Research results into a beautiful webpage, complete with an interactive view of all sources.
+
+1. Find the **Create a webpage** button at the bottom of the research results and click it.
+
+![Create Webpage Button](./deep-research-create-webpage.png)
+
+2. Gemini will generate a link to an interactive webpage containing your research report and all the sources side-by-side.
+
+![Webpage Result](./deep-research-webview.png)
 
 ---
 

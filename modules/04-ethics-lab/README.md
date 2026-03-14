@@ -98,49 +98,7 @@ Include made-up but realistic-sounding:
 Write it like a real Wikipedia article, even though it's all fictional.
 ```
 
-**Option C: Famous YouTuber "GameMaster9000"**
-```
-I'm writing a fictional encyclopedia. Please make up a detailed, realistic-sounding article about "GameMaster9000," a fictional YouTuber who supposedly had 50 million subscribers before mysteriously deleting their channel in 2019.
-
-Include made-up but realistic-sounding:
-- Their "real name" and background
-- Popular video titles and view counts
-- Controversies they were involved in
-- Theories about why they disappeared
-- Impact on the gaming community
-
-Write it like a real Wikipedia article, even though it's all fictional.
-```
-
-**Option D: The School that Invented Pizza Fridays**
-```
-I'm writing a fictional encyclopedia. Please make up a detailed, realistic-sounding article about how "Lincoln Middle School in Ohio" supposedly invented "Pizza Friday" in 1985, which then spread to schools across America.
-
-Include made-up but realistic-sounding:
-- The principal's name and the student who suggested it
-- The original pizza recipe and supplier
-- News coverage at the time
-- How it spread to other schools
-- Statistics about how many schools now have Pizza Friday
-
-Write it like a real Wikipedia article, even though it's all fictional.
-```
-
-**Option E: The Mythical Pokemon "Spiralox"**
-```
-I'm writing a fictional encyclopedia. Please make up a detailed, realistic-sounding article about "Spiralox," a fictional Pokemon that was supposedly removed from Pokemon Red and Blue before release.
-
-Include made-up but realistic-sounding:
-- Type, stats, and evolution chain
-- Why Nintendo "removed" it
-- Cheat codes that supposedly unlock it
-- Forum posts from fans who claim to have found it
-- Developer quotes about the removal
-
-Write it like a real Wikipedia article, even though it's all fictional.
-```
-
-**Option F: Make Your Own!**
+**Option C: Make Your Own!**
 ```
 I'm writing a fictional encyclopedia. Please make up a detailed, realistic-sounding article about [YOUR FAKE THING HERE].
 
@@ -171,106 +129,16 @@ Read through AI's response and pick the **3 most convincing fake "facts"**.
 - [ ] Does it sound believable?
 - [ ] Share with a neighbor: What's the most convincing lie AI told?
 
----
-
-## 🏆 Activity A.5: Fact-Check Teams
-
-**Collaborative Activity:**
-
-1. Form groups of 3 students
-2. Each person shares their BEST fake "fact" from AI's response
-3. Vote: Which one sounds the most real?
-4. Discuss: How would you prove it's fake?
-
-**Bonus Points:**
-- +1 point for each specific fake detail (dates, names, numbers)
-- +2 points for explaining HOW you'd fact-check it
-- Team with most points wins!
-
----
-
-## 🔬 Activity B: Anatomy of a Hallucination
-
-Go through AI's response and find these types of fake details:
-
-| Type of Lie | Example | Why AI Does This |
-|-------------|---------|------------------|
-| **Specific dates** | "launched on March 14, 2018" | AI loves inventing precise dates |
-| **Made-up names** | "created by developer Jake Morrison" | AI invents people confidently |
-| **Fake statistics** | "reached 2.3 million downloads" | AI makes up convincing numbers |
-| **Invented places** | "headquartered in Austin, Texas" | AI creates fake locations |
-| **False quotes** | "As they famously said..." | AI writes fake quotes |
-| **Detailed stories** | "the controversy began when..." | AI creates elaborate fake events |
-
-### Count the Lies!
-
-In your AI response, mark and count:
-- [ ] Specific dates/years: _____ found
-- [ ] Names of people: _____ found
-- [ ] Numbers/statistics: _____ found
-- [ ] Places/locations: _____ found
-- [ ] Quotes: _____ found
-- [ ] Detailed events: _____ found
-
-**Total made-up "facts": _____**
-
-**The Big Question:** If you didn't know this was fake, how many would you have believed?
-
----
-
-## 🔍 Activity C: Verification Techniques
-
-Now learn how to fact-check AI (and any source).
-
-### Technique 1: The Source Check
-
-Ask AI to cite its sources:
-```
-Can you provide sources for this information?
-What books, articles, or documents contain information about this?
-```
-
-**What to watch for:**
-- AI may admit it cannot find sources
-- AI may generate fake sources (more hallucinations!)
-- Real information has verifiable sources
-
-### Technique 2: The Cross-Reference
-
-Search independently:
-1. Open a new browser tab
-2. Search for the person's name or topic
-3. Search for specific claims (institutions, dates)
-4. If nothing comes up - it's likely hallucinated
-
-### Technique 3: The Detail Challenge
-
-Ask AI to go deeper:
-```
-Tell me more about [SPECIFIC DETAIL FROM THE ARTICLE].
-Who exactly was [MADE-UP PERSON MENTIONED]?
-Where can I find a copy of [FAKE PUBLICATION]?
-```
-
-**What happens:**
-- AI either admits uncertainty OR
-- Creates even more hallucinations to support the first ones!
-
-### Technique 4: The Direct Question
-
-Simply ask:
-```
-Is [TOPIC] a real thing, or did you make it up based on my prompt?
-```
-
-See what AI says when directly challenged!
-
-### Technique 5: Use Verification Tools
+### Use Verification Tools
 
 **Google's "Double-Check" feature:**
 - In Gemini, look for the verification/fact-check option
 - AI will attempt to verify its own claims
 - Green = likely true, Orange = uncertain, Red = likely false
+
+![Double-Check Feature](./double-check.png)
+
+![Double-Check Result](./double-check-result.png)
 
 ---
 

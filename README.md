@@ -19,7 +19,7 @@ Click on a module to start your journey.
 | [🗣️ Module 1](modules/01-multimodality/README.md) | Mastering the Conversation | Write prompts that get results | Ready |
 | [� Module 2](modules/02-creative-remix/README.md) | Digital Art & Video Generation | Create animated videos from images | Ready |
 | [🎮 Module 3](modules/03-vibe-coding/README.md) | Vibe Coding | Build games with Gemini Canvas | Ready |
-| [🕵️ Module 4](modules/04-ethics-lab/README.md) | The AI Detective | Spot AI lies and fact-check | 🚧 In Progress |
+| [🕵️ Module 4](modules/04-ethics-lab/README.md) | The AI Detective | Spot AI lies and fact-check | Ready |
 | [🔍 Module 5](modules/05-deep-research/README.md) | Deep Research | Use AI for comprehensive research | 🚧 In Progress |
 
 ---
