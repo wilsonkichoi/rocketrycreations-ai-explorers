@@ -3,7 +3,7 @@
 
 **Quick Link:** [tinyurl.com/rocket-ai](https://tinyurl.com/rocket-ai)
 
-Welcome to **AI Explorers**! This guide is organized into modules that you can follow at your own pace. You will move from simply "using" AI to "directing" it to create art, games, and research.
+Welcome to **AI Explorers**! This guide is designed for young learners (4th grade and up) and organized into modules that you can follow at your own pace. You will move from simply "using" AI to "directing" it to create art, games, and research.
 
 > **How to use this guide:** Click on any module below to start. Each module contains copy-paste prompts you can use directly in Google Gemini and other AI tools.
 
@@ -56,7 +56,7 @@ By the end of this journey, you will have learned:
 
 ## 📖 About This Curriculum
 
-AI Explorers is a "Tools-First" curriculum designed for young learners. No prior AI or coding experience is required.
+AI Explorers is a "Tools-First" curriculum designed for young learners (4th grade and up). No prior AI or coding experience is required.
 
 **Core Principles:**
 - **Literacy over theory** - Know which tool for which job

@@ -34,21 +34,6 @@ While the free version works, **Google AI Pro** provides the best experience:
 
 ---
 
-## ⚠️ Important: Account Type Requirements
-
-> **You need a regular Google account (not a child/supervised account) for full access to all tools.**
-
-**Features unavailable with child/supervised accounts:**
-- Google Labs tools (Whisk, Flow)
-- NotebookLM
-- Some Gemini features
-
-**If you have a supervised account:**
-1. Ask a parent to help create a regular Google account for this program
-2. Or have a parent temporarily adjust supervision settings
-
----
-
 ## 📋 Step-by-Step Setup
 
 ### Step 1: Google Account (5 minutes)
@@ -58,7 +43,7 @@ While the free version works, **Google AI Pro** provides the best experience:
 3. Click **Sign In** in the top right
 4. If you need a new account:
    - Click **Create account**
-   - Select **For myself** (NOT "For my child")
+   - Select **For myself**
    - Follow the wizard
 
 **✓ Checkpoint:** You see your profile picture in the top right of google.com
@@ -122,9 +107,8 @@ Keep these tabs open:
 | Problem | Solution |
 |---------|----------|
 | "Access denied" message | Make sure you're signed into your Google account |
-| Can't find Whisk or Flow | Check if using a child/supervised account |
-| NotebookLM not accessible | Requires a regular Google account |
-| Features limited | Likely using a child account - switch to regular |
+| Can't find Whisk or Flow | Try refreshing or signing in again |
+| NotebookLM not accessible | Make sure you're signed into your Google account |
 | Page won't load | Try refreshing or clearing browser cache |
 | Hit usage limits | Consider starting Google AI Pro free trial |
 
